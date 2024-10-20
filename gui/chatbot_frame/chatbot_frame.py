@@ -4,7 +4,7 @@ from PIL import Image, ImageTk, ImageSequence
 
 from threading import Thread
 from langchain_core.messages import AIMessage, HumanMessage
-from coding_assistant.llms.llm_app import LLMApp
+from llms.llm_app import LLMApp
 
 
 class ChatbotFrame:

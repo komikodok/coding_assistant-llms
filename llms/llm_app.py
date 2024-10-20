@@ -1,6 +1,6 @@
 from langchain_core.messages import AIMessage, HumanMessage
 
-from coding_assistant.llms.graph.workflow import workflow
+from llms.graph.workflow import workflow
 
 
 llm_app = workflow.compile()

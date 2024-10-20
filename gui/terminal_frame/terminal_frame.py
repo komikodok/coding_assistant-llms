@@ -5,7 +5,7 @@ import os
 
 from threading import Thread
 import re
-from coding_assistant.llms.llm_app import LLMApp
+from llms.llm_app import LLMApp
 
 
 class TerminalFrame:

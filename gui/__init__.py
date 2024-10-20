@@ -1,2 +1,2 @@
-from coding_assistant.gui.chatbot_frame.chatbot_frame import ChatbotFrame
-from coding_assistant.gui.terminal_frame.terminal_frame import TerminalFrame
+from gui.chatbot_frame.chatbot_frame import ChatbotFrame
+from gui.terminal_frame.terminal_frame import TerminalFrame

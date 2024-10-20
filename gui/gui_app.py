@@ -1,6 +1,6 @@
 import tkinter as tk
-from coding_assistant.gui import ChatbotFrame
-from coding_assistant.gui import TerminalFrame
+from gui import ChatbotFrame
+from gui import TerminalFrame
 
 
 class InterfaceApp:

@@ -1,6 +1,6 @@
 from langgraph.graph import StateGraph, END
 
-from coding_assistant.llms.graph.node import (
+from llms.graph.node import (
     State,
     decide_response_category,
     conversation_node,

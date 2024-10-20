@@ -1,7 +1,7 @@
 from langchain_core.messages import HumanMessage, AIMessage
 
-from coding_assistant.llms.chains.conversation import ConversationChain
-from coding_assistant.llms.chains.error_handling import ErrorHandlingChain
+from llms.chains.conversation import ConversationChain
+from llms.chains.error_handling import ErrorHandlingChain
 
 from typing import (
     TypedDict
