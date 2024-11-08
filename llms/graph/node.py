@@ -79,7 +79,7 @@ def insert_chat_history(state: State):
 
 # -> Utilize this option if you desire a more sophisticated method. And delete is_error_message from state
 
-# from assistant_coding.llms.chains.classifier import ClassifierChain
+# from llms.chains.classifier import ClassifierChain
 
 # def decide_response_category(state: State):
 #     question = state["question"]
